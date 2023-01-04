@@ -1,0 +1,412 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  /* overflow-x: hidden; */
+  
+}
+.body{
+    
+   margin: 0;
+   padding: 0; 
+    box-sizing: border-box;
+
+}
+.main{
+
+  height: 100%;
+  width: 100%;
+  background-color: black;
+    
+}
+.fixed1{
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    height: 3rem;
+    width: 3rem;
+}
+.menu{
+
+    width: 10%;
+background-color:black;
+ height: 675vh;
+   
+}
+.hmenu{
+font-size: 1rem;
+position: fixed;
+top: 6rem;
+left: 1rem;
+overflow-y: hidden;
+}
+.button1{
+    position: fixed;
+  
+    left: .7rem;
+    background-color: black;
+}
+.section{
+width: 100%;
+  
+
+   background-color: black;
+}
+.section2{
+   
+}
+.logo{
+    width: 90px;
+    height: 36px;
+}
+.sticky{
+    
+   
+    height: 10px;
+    width: 10px;
+}
+.nav1main{
+ background-color: black;
+
+    
+    
+}
+.nav1a{
+  
+    height: 100%;
+    width: 100%;
+  
+}
+.nav11{
+min-width: 1rem;
+max-height: 3rem;
+background-color: black;
+
+
+}
+.nav12{
+  
+    background-color: rgb(58, 58, 57);
+    width: 19rem;
+    min-height: 3.1rem;
+  
+   
+    }
+   
+
+
+
+
+
+
+    .nav12:hover{
+  
+        background-color: rgb(78, 78, 73);
+    }
+    .nav13{
+        width: 24rem;
+   overflow: hidden;
+   background-color: black;
+        
+        }
+        .nav13:hover{
+            background-color: beige;
+        }
+        .nav13a{
+          
+   width: 70%;
+   height: 100%;
+   background-color: rgb(78, 78, 73);
+      
+            
+            }
+            .nav13b{
+                background-color: blueviolet;
+               width: 30%;
+               height: 100%;
+              
+                   
+                   }
+        .nav21{
+            width: 20rem;
+          
+            }
+.input2{
+    outline: 0;
+    background-color: rgb(58, 58, 57);
+  min-width: 80%;
+   min-width: 2rem;
+}
+.input2:hover{
+    background-color: rgb(78, 78, 73);
+}
+.input13a{
+  outline: 0;
+;
+    background-color: rgb(78, 78, 73);
+  
+   
+}
+.input13a::placeholder{
+    
+    color: white;
+  
+}
+.img13a{
+  
+}
+.hello{
+    width: 200px;
+    background-color: brown;
+    height: 200px;
+}
+.section2{
+ max-width: 100%;
+    height: 16rem;
+    background-color: black;
+}
+.section3{
+    background-color: black;
+    max-width: 100%;
+    height: 20rem;
+}
+.s31{
+    background-color: #004382;
+    padding-left: 5rem;
+}
+.s3h{
+font-size: 1.5rem;
+margin-left: -2rem;
+}
+.section4{
+    max-width: 100%;
+    height: 45rem;
+    background-color: black;
+}
+.resp1{
+
+    height: 20rem;
+}
+
+.resp1d2{
+
+ background-color:  #3b4143;
+ color: rgb(210, 207, 203); ;
+ 
+ 
+ 
+}
+.r1d2p{
+    font-size: .9rem;
+}
+.buttonresp1{
+    background-color: rgb(24, 23, 23);
+    height: 2.5rem;
+    width: 7rem;
+}
+.buttonresp1:hover{
+    background-color: rgb(43, 42, 40);
+}
+.resp1bh{
+    font-size: .8rem;
+}
+.resp{
+    max-width: 100%;
+    height: 45rem;
+}
+.section5{
+ 
+   
+    background-color: black;
+}
+.section6{
+    width: 100%;
+    height: 100%;
+    margin-top: 2rem;
+    background-color: black;
+
+}
+
+.s6d1{
+   
+    background-color: black;
+   
+
+}
+.s6d2{
+    height: 100%;
+    background-color: black;
+    
+    
+}
+.s6d2d{
+    background-color: black;
+    
+}
+
+.s6d2h{
+color: red;
+font-size: 1.5rem;
+  
+}
+.s6d2span{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.s6d1h1{
+    font: 2rem ;
+    font-weight: 500;
+}
+.priceboxmain{
+width: 30%;
+height: 7%;
+background-color: red;
+}
+.priceboxmain{
+
+    width: 100;
+    height: 2rem;
+    background-color: rgb(241, 179, 97);
+    }
+    .hname{
+        font-size: 1.5rem;
+    }
+    .blue{
+        background-color:  #2b4571;
+    }
+    .red{
+        background-color: rgb(185, 59, 20);
+    }
+    .green{
+        background-color:  #4c5626;
+    }
+    .section7{
+        width: 100%;
+        height: 100%;
+        margin-top: 2rem;
+    background-color: rgb(8, 8, 7);
+    }
+    .section8{
+        width: 100%;
+        height: 100%;
+        margin-top: 2rem;
+   background-color: black;
+    }
+    .arrowbtn{
+        height: 3rem;
+        width: 3rem;
+
+
+    }
+
+
+
+
+
+    .container12 {
+        display: flex;
+        justify-content: space-evenly;
+        height: 100%;
+        width: 100%;
+        color: white;
+        background-color: black;
+    }
+    
+    .h121 {
+        font-size: 1rem;
+        margin-top: 1.25rem;
+    
+    }
+    
+    .c121 {
+        display: flex;
+        flex-direction: column;
+    
+    }
+    
+    .c122 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .c123 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .c124 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .c125 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .p121a {
+        font-size: .75rem;
+        margin-top: .3125rem;
+    
+    }
+    
+    .p121b {
+        font-size: .75rem;
+        margin-top: .3125rem;
+    
+    }
+    
+    .c121a {
+        margin-top: .625rem;
+    }
+    
+    .c121b {
+        margin-top: .625rem;
+    }
+    
+    .container13 {
+        height: 11.8rem;
+        width: 100%;
+        display: flex;
+        justify-content: start;
+        align-items: flex-end;
+        padding-top: 1.875rem;
+        color: rgb(142, 142, 141);
+        background-color: rgb(1, 1, 1);
+        font-size: .75rem;
+         gap: 3rem;
+
+         
+
+
+        
+    
+    }
+    
+    .p132 {
+    
+        height: 1.25rem;
+        margin-top: 3.125rem;
+    
+    
+    }
+    
+    .c131 {
+        display: flex;
+    
+        width: 18.75rem;
+        height: 5rem;
+    
+    
+    
+    }
+    .imglast{
+        height: 2rem;
+        width: 2rem;
+      
+        overflow: hidden;
+    }
+ 
